@@ -1,0 +1,12 @@
+.todoItem p {
+  display: inline;
+  padding-left: 6px;
+}
+
+.todoItem {
+  margin: 20px 20px;
+}
+
+hr {
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
